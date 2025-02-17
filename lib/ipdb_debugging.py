@@ -1,7 +1,6 @@
-#!/usr/bin/env python3
-
-import ipdb
-
 def plus_two(num):
-    num + 2
+    """
+    Adds 2 to the input number and returns the result.
+    """
+    num = num + 2
     return num
